@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: "Al-Jazeera";
+    font-weight: 900;
+    src: url("../public/fonts/Aljazeera.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Al-Jazeera-Arabic-Regular";
+    font-weight: normal;
+    src: url("../public/fonts/Al-Jazeera-Arabic-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Cairo";
+    font-weight: bold;
+    src: url("../public/fonts/Cairo-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Cairo_med";
+    font-weight: 700;
+    src: url("../public/fonts/Cairo-Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "aljazeera-normal";
+    font-weight: bold;
+    src: url("../public/fonts/Al-Jazeera-Arabic-Light.ttf") format("truetype");
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    direction: rtl;
+    overflow-x: hidden;
+}
+
+.container {
+    width: 90%;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
