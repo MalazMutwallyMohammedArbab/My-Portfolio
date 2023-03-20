@@ -27,21 +27,21 @@ export default function Home() {
                   <Image className="h-56 w-full border-b-2 border-lightgray" src="images/projects/pricing-component.png" alt="img" />
                   <div class="bg-white p-4 w-[100%] text-left pl-6">
                     <h4 className='font-semibold mb-3'>Pricing component</h4>
-                    <a href="https://4-preview-card.vercel.app/" rel="noreferrer noopener" target="_blank" className='text-orange'>visit website</a>
+                    <a href="https://10-pricing-component.vercel.app/" rel="noreferrer noopener" target="_blank" className='text-orange'>visit website</a>
                   </div>
                 </div>
                 <div className='box shadow'>
                   <Image className="h-56 w-full border-b-2 border-lightgray" src="images/projects/e-commerce.jpg" alt="img" />
                   <div class="bg-white p-4 w-[100%] text-left pl-6">
                     <h4 className='font-semibold mb-3'>eCommerce</h4>
-                    <a href="https://4-preview-card.vercel.app/" rel="noreferrer noopener" target="_blank" className='text-orange'>visit website</a>
+                    <a href="https://7-ecommerce.vercel.app/" rel="noreferrer noopener" target="_blank" className='text-orange'>visit website</a>
                   </div>
                 </div>
                 <div className='box shadow'>
                   <Image className="h-56 w-full border-b-2 border-lightgray" src="images/projects/easybank.jpg" alt="img" />
                   <div class="bg-white p-4 w-[100%] text-left pl-6">
                     <h4 className='font-semibold mb-3'>Easybank</h4>
-                    <a href="https://4-preview-card.vercel.app/" rel="noreferrer noopener" target="_blank" className='text-orange'>visit website</a>
+                    <a href="https://11-easybank.vercel.app/" rel="noreferrer noopener" target="_blank" className='text-orange'>visit website</a>
                   </div>
                 </div>
             </div>
